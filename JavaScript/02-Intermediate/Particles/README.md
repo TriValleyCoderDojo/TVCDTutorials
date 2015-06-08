@@ -3,6 +3,8 @@
 
 ##  D3.js
 
+Forked from https://github.com/CoderDojoSF/Particles
+
 Library that uses HTML, CSS and SVG to bring data to life.
 
 ![](http://i.imgur.com/uEuFKRX.png)
