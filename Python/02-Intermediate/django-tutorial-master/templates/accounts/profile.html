@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block title %}Codesmash: Your Profile{% endblock %}
+
+{% block content %}
+<h1>Your Profile</h1>
+<p>Hello, <b>{{ user.username }}</b>.</p>
+<p>Email: <b>{{ user.email }}</b></p>
+
+<h1>Talk Submissions</h1>
+<p><a href="{% url 'talks:create' %}">Submit Proposal</a></p>
+<table>
+    <tr>
+        <th>Title</th>
+        <th>Type</th>
+        <th>Category</th>
+        <th>Approved</th>
+    </tr>
+    {% for proposal in proposals %}
+    <tr>
+        <td><a href="{% url 'talks:update' proposal.id %}">{{ proposal.title }}</a></td>
+        <td>{{ proposal.talk_type }}</td>
+        <td>{{ proposal.category }}</td>
+        <td>{{ proposal.approved }}</td>
+    {% endfor %}
+</table>
+{% endblock %}

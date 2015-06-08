@@ -1,0 +1,14 @@
+{
+  title: "Animations in Javascript",
+  summary: "Build animations in the web browser using javascript and the D3.js library.",
+  image_url: "http://f.cl.ly/items/2X112M2P2e1N170B2e1g/CoderDojoSF_Particles.jpg",
+  author_github_username: "KartikTalwar",
+  events: [
+    {
+      location: "GitHub 548 4th St San Francisco CA 94107",
+      date: "Sat Feb 16 2013 12:00:00 GMT-0700 (PDT)",
+      length_in_hours: 2,
+      teacher_github_username: "jonmagic"
+    }
+  ]
+}

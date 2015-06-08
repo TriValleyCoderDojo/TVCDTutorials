@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>List Names</title>
+<script src="jquery.min.js"></script>
+</script>
+<script>
+$(document).ready(function(){
+	$.get("get_list",function(data){
+		$("#resultarea").html(data);
+    });
+});
+</script>
+</head>
+<body>
+	<h4>List of current users</h4>
+	<div id="resultarea"></div>
+	<table>
+		<tr>
+			<td><a href="index.html">Home</a></td>
+		</tr>
+	</table>
+</body>
+</html>
