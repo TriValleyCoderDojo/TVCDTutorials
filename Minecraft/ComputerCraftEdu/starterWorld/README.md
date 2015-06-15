@@ -18,13 +18,13 @@ This is a starter world that will help you gain the skills you need to be able t
 
 5. Once you are in the world, you should spawn near a Blue Wool structure.  If you do not, then teleport to the coordiates: -1137, 4, -129
   
-  /tp "user_name" -1137 4 -129
+  /tp "user_name" -1137 4 -129  
 
   Also, since the goal is to learn how to use Turtlebots, it would be recommended that you make the world easier to focus on the Turtles by doing the following commands:
   
-  /difficulty peaceful
-  /gamerule doMobSpawning false
-  /gamerule doDaylightCycle false
-  /time set 1200
+  /difficulty peaceful  
+  /gamerule doMobSpawning false  
+  /gamerule doDaylightCycle false  
+  /time set 1200  
  
 BE COOL and HAVE FUN!
