@@ -7,6 +7,11 @@ This is starter world that will help you gain the skills you need to be able to 
 
 2. Download the file, compCraftStarter.zip, found in this directory.
 
-3. You will need to copy this file into the saves directory.  
+3. You will need to copy this file into the saves directory, which is under your Minecraft home directory. If you don’t know where the Minecraft Home directory is
 
-4. You will then need to unzip the contents of the file to extract the contents and make the world available the next time Minecraft is started.
+  * On Windows, open a command window, and type “cd %appdata%\.minecraft
+  * On Mac, open a command window, and type “cd ~/Library/Application?Support/minecraft”
+
+  If neither of these work for you, Google is your friend.
+
+4. You will then need to unzip the contents of the file to extract the contents and make the world available the next time Minecraft is started. 
