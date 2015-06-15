@@ -16,7 +16,7 @@ This is a starter world that will help you gain the skills you need to be able t
 
 4. You will then need to unzip the contents of the file to extract the contents and make the world available the next time Minecraft is started. 
 
-5. Once you are in the world, you should spawn near a Blue Wool structure.  If you do not, then teleport to the coordiates: -1137, 4, -129
+5. Once you are in the world, you should spawn near a Blue Wool structure.  If you do not, then teleport to the coordinates: -1137, 4, -129
   
   /tp "user_name" -1137 4 -129  
 
