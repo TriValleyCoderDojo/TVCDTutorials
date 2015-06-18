@@ -11,8 +11,8 @@ Note: Joe's tutorial will only work for Minecraft 1.6.4.
 
 After going through the above tutorial, then you can go to the ComputerCraft site for the latest updates and more information
 
-  [ComputerCraft Main Site](http://www.computercraft.info/)
-  [ComputerCraft Wiki](http://www.computercraft.info/wiki/Main_Page)
-  [ComputerCraft APIs](http://www.computercraft.info/wiki/Category:APIs)
+  [ComputerCraft Main Site](http://www.computercraft.info/)  
+  [ComputerCraft Wiki](http://www.computercraft.info/wiki/Main_Page)  
+  [ComputerCraft APIs](http://www.computercraft.info/wiki/Category:APIs)  
 
 BE COOL & HAVE FUN!
