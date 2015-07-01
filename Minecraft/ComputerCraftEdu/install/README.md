@@ -15,7 +15,7 @@ In order to use ComputerCraftEdu, you will need to install the ForgeModLoader (k
 
 4. Now you will need copy the ComputerCraftPlusComputerCraftEdu1.74pr19.jar file in the Minecraft mods directory. If you don’t know where it is
 
-  * On Windows, open a command window, and type “cd %appdata%\.minecraft
+  * On Windows, open a command window, and type “cd %appdata%\\.minecraft
   * On Mac, open a command window, and type “cd ~/Library/Application?Support/minecraft”
 
   If neither of these work for you, Google is your friend.
