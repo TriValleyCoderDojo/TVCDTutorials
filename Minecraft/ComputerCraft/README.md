@@ -7,11 +7,11 @@ Before you begin, you will need to have installed ForgeModLoader and the Mod, if
 
 A really good place to get started with ComputerCraft would be to follow the Tutorials put together by Lua Liquidator
 
-  [Computer Basics I](http://www.computercraft.info/forums2/index.php?/topic/15033-computer-basics-i/)
-  [Computer Basics II](http://www.computercraft.info/forums2/index.php?/topic/15041-computer-basics-ii/)
-  [Computer Basics III](http://www.computercraft.info/forums2/index.php?/topic/20905-computer-basics-iii/)
+  [Computer Basics I](http://www.computercraft.info/forums2/index.php?/topic/15033-computer-basics-i/)  
+  [Computer Basics II](http://www.computercraft.info/forums2/index.php?/topic/15041-computer-basics-ii/)  
+  [Computer Basics III](http://www.computercraft.info/forums2/index.php?/topic/20905-computer-basics-iii/)  
   
-  [Turtle Basics](http://www.computercraft.info/forums2/index.php?/topic/15085-turtle-basics/)
+  [Turtle Basics](http://www.computercraft.info/forums2/index.php?/topic/15085-turtle-basics/)  
 
 If you are having some trouble coming up with Lua code from your Turtle, then you might be able to use some code that someone else has already written to get some ideas.
 
